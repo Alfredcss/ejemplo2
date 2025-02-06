@@ -1,0 +1,15 @@
+.dadoForma {
+  width: 120px;
+  height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 16px;
+  font-size: 28px;
+  font-weight: bold;
+  background: linear-gradient(145deg, #e0e0e0, #ffffff);
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2), -5px -5px 10px rgba(255, 255, 255, 0.7);
+  margin: 15px auto;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  border: none;
+}
